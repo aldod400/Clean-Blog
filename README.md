@@ -10,6 +10,7 @@
 ## Activating the Virtual Environment:
 ```plaintext
 .venv\Scripts\activate
+```plaintext
 
 To *build* this Website you should **install** some things:
 
