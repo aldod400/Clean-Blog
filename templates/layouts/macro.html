@@ -1,0 +1,4 @@
+{% macro input(field) -%} {{ field }} {% if field.errors %} {% for error in
+field.errors %}
+<div class="danger" style="color: red">{{ error }}</div>
+{% endfor %} {% endif %} {%- endmacro %}

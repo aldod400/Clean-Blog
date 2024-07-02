@@ -1,0 +1,26 @@
+{% extends 'layouts/app_layouts/base.html' %} {% block content %}
+<!-- Post Content-->
+<article class="mb-4">
+  <div class="container px-4 px-lg-5">
+    <div class="row gx-4 gx-lg-5 justify-content-center">
+      <div class="col-md-10 col-lg-8 col-xl-7">
+        <p>{{ post.description }}</p>
+      </div>
+    </div>
+    {% if 'login' in session and post.user_id == session['login'] %}
+    <a
+      class="btn btn-primary text-uppercase"
+      id="Button"
+      href="{{ url_for('blog.update', id = post.id) }}"
+      >Update</a
+    >
+    <a
+      class="btn btn-danger text-uppercase"
+      id="submitButton"
+      href="{{ url_for('blog.delete', id = post.id) }}"
+      >Delete</a
+    >
+    {% endif %}
+  </div>
+</article>
+{% endblock %}
