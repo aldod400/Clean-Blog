@@ -6,8 +6,9 @@
 
 <h1 style="text-align: center;">Clean Blog</h1>
 
-## Build
-To *build* this Website you should install some things:
+# Setup
+
+To *build* this Website you should **install** some things:
 
 
 After that,you should run the file **main.php**
