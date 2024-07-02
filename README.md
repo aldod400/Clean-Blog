@@ -7,6 +7,8 @@
 <h1 style="text-align: center;">Clean Blog</h1>
 
 # Setup
+## Activating the Virtual Environment:
+
 
 To *build* this Website you should **install** some things:
 
