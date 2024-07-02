@@ -8,7 +8,8 @@
 
 # Setup
 ## Activating the Virtual Environment:
-``.venv\Scripts\activate``
+
+.venv\Scripts\activate <!-- This is in the copy area -->
 
 
 To *build* this Website you should **install** some things:
