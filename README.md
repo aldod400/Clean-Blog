@@ -4,7 +4,7 @@
     <img src="static/assets/img/home-bg.jpg" style="width: 400px;">
 </p>
 
-<h1 style="text-align: center;">PhantomScript</h1>
+<h1 style="text-align: center;">Clean Blog</h1>
 
 ## Build and Run
 To build this language you should install the **PHP** language
