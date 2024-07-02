@@ -33,7 +33,9 @@ pip install Flask-WTF
 ```cmd
 pip install Flask_bcrypt
 ```
-
-
-After that,you should run the file **main.php**
+# Build and Run
+After that,you should **run** the website:
+```cmd
+Flask --app run.py run
+```
 
