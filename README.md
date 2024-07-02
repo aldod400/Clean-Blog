@@ -6,6 +6,7 @@
 
 <h1 style="text-align: center;">Clean Blog</h1>
 <h3>This project is a fully functional blog website built using Flask and SQLAlchemy. It allows users to create, read, update, and delete blog posts. The project also features user authentication and authorization, allowing only registered users to create and edit posts. Additionally, visitors can read blogs without the need to log in.</h3>
+
 # Setup
 ## Activating the Virtual Environment:
 ```cmd
