@@ -12,7 +12,7 @@
 .venv\Scripts\activate
 ```
 
-####To *build* this Website you should **install** some things:
+#### To *build* this Website you should **install** some things:
 **install Flask**:
 ```cmd
 pip install Flask
