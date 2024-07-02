@@ -8,14 +8,15 @@
 
 # Setup
 ## Activating the Virtual Environment:
-
 ```cmd
 .venv\Scripts\activate
 ```
 
-
-To *build* this Website you should **install** some things:
-
+####To *build* this Website you should **install** some things:
+**install Flask**:
+```cmd
+pip install Flask
+```
 
 After that,you should run the file **main.php**
 
