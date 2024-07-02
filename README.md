@@ -1,7 +1,7 @@
 <p
     align="center"
     style="text-align: center ;hieght:150px">
-    <img src="static\assets\img\home-bg.JPG" style="width: 400px;">
+    <img src="static/assets/img/home-bg.jpg" style="width: 400px;">
 </p>
 
 <h1 style="text-align: center;">PhantomScript</h1>
