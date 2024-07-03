@@ -1,0 +1,7 @@
+Flask
+Flask_SQLAlchemy
+pymysql
+Flask-WTF
+Flask_bcrypt
+Flask_session
+email_validator
